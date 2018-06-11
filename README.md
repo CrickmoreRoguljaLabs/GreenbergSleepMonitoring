@@ -1,0 +1,1 @@
+Simple setup for streaming and saving video from infrared cameras using Raspberry Pis.
